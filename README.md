@@ -1,4 +1,4 @@
-# Frontend Take-Home Assignment: Movie Ranker
+# Movie Ranker
 
 ## The Movie Ranker App
 
